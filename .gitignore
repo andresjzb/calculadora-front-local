@@ -11,7 +11,7 @@ node_modules/
 coverage/
 *.local
 
-# Archivos de entorno (¡Aquí está la corrección!)
+# Archivos de entorno
 .env
 
 # Logs
